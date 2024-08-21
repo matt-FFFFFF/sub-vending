@@ -6,13 +6,11 @@
 
 crash.log
 crash.*.log
-
 override.tf
 override.tf.json
 *_override.tf
 *_override.tf.json
 
 *tfplan*
-
 .terraformrc
 terraform.rc
